@@ -3,7 +3,7 @@
 <h3> Summary </h3> 
 <br> 
 
-<img src="images/image_02.png" width="75%">
+<img src="images/image_02.png" width="30%">
 
 On this app project I designed and programmed a weight tracking app using Java on Android Studio. 
 
