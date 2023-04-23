@@ -21,4 +21,4 @@ When it came to the development of the project, I used Android Studio to code th
 When it came to testing the app, I tested the app on an android device as seen on the image below. I made sure there were no errors when running the project and see if the app was working on the android device. 
 
 
-<img src="images/image_02.png" width="30%">
+<img src="images/image02.png" width="30%">
