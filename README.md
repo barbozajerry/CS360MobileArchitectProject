@@ -1,2 +1,2 @@
 # CS360MobileArchitectProject
-![Alt text](images/image01.jpg)
+![Alt text](images/image01.png)
