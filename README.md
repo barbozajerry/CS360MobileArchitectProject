@@ -22,3 +22,7 @@ When it came to testing the app, I tested the app on an android device as seen o
 
 
 <img src="images/image02.png" width="60%">
+
+<br><br><br> 
+
+When facing challenges on this project I ended up going back to the zybooks and class resources. The most challenging thing was at the start since it was my first time using Android Studio. After few hours playing around with it and watching YouTube tutorials about Android Studio, I became more familiar with it. On this app, I was able to apply some of my creativity and UI skills. 
